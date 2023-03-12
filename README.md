@@ -1,6 +1,5 @@
 ### 안녕하세요! 👋
 
-비염 있는 코끼리도 있을까요? 🤔🤔
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lys1325)](https://solved.ac/lys1325)
 
