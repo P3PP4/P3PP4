@@ -1,4 +1,4 @@
-## ☕ 자바는 신이고 나는 무적이다. 
+## ☕  
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lys1325)](https://solved.ac/lys1325)
 
