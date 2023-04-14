@@ -1,4 +1,4 @@
-## ☕  
+## ☕ 기니피그는 왜 돼지가 아닐까
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lys1325)](https://solved.ac/lys1325)
 
