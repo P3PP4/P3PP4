@@ -3,11 +3,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lys1325)](https://solved.ac/lys1325)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=lys1325&theme=dark)
 
-## 📚 SKILLS
+## 🔥 SKILLS
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white"> <br>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <br>
-  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <br>
-  <img src="https://img.shields.io/badge/aws%20ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/aws%20s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/> <br>
 
 <!--
 **P3PP4/P3PP4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
