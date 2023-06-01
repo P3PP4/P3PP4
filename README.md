@@ -3,6 +3,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lys1325)](https://solved.ac/lys1325)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=lys1325&theme=dark)
 
+### [If I die tomorrow](ifidietomorrow.co.kr)
+
+
 ## 🔥 SKILLS
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white"> <br>
 
