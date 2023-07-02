@@ -1,4 +1,4 @@
-## 🙋‍♂️ 절절포!
+## 🍉 절절포!
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lys1325)](https://solved.ac/lys1325)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=lys1325&theme=dark)](https://solved.ac/lys1325)
